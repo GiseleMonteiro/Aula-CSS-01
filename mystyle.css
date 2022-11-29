@@ -1,0 +1,16 @@
+#ultima-caixa{
+    padding: 10px;
+    background-color: aqua;
+    color: darkred;
+}
+body{
+    background-color:darksalmon;
+}
+div {
+    background-color: blue;
+    padding: 10px;
+}
+.caixa {
+  color: red;
+  background-color: green;
+}
